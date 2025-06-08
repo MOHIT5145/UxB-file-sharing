@@ -48,7 +48,7 @@ IS_VERIFY = os.environ.get("IS_VERIFY", "True")
 TUT_VID = os.environ.get("TUT_VID","https://t.me/bolomotu/1378")
 
 #start message
-START_MSG = os.environ.get("START_MESSAGE", "<b>ʜᴇʟʟᴏ {first}\n\n  CLICK ON SHORT-LINK... TO GET VIP CONTENT DIRECT .» @wrrohit02</b>")
+START_MSG = os.environ.get("START_MESSAGE", "<b>ʜᴇʟʟᴏ {first}\n\n  CLICK ON SHORT-LINK... TO GET VIP CONTENT DIRECT .» JOIN NOW- @motumovies</b>")
 try:
     ADMINS=[5783103507]
     for x in (os.environ.get("ADMINS", "5783103507").split()):
